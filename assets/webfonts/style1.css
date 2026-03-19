@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "MiFuente";
+    src: url("fonts/MiFuente-Regular.woff2") format("woff2"),
+         url("fonts/MiFuente-Regular.woff") format("woff");
+}
+
+body {
+    font-family: "MiFuente", sans-serif;
+}
